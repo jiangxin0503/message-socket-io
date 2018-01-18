@@ -1,0 +1,12 @@
+{
+  "name": "notification-server",
+  "version": "0.0.1",
+  "description": "notification server",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.1",
+    "socket.io": "^2.0.4"
+  }
+}
